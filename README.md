@@ -1,5 +1,9 @@
 # Zoositting
 
+# Dependencies 
+
+- MongoDB Database Account
+
 ## Project Setup
 
 ### The Frontend
@@ -18,3 +22,4 @@ Use `yarn dev:frontend` to start the frontend dev environment.
 
 Use `yarn dev:backend` to start the backend dev environment.
 
+Also, make sure you provide a .env file with the MONGO_URI variable set.
